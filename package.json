@@ -2,6 +2,9 @@
   "name": "create-snake-app",
   "version": "1.0.1",
   "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
   "bin": {
     "create-snake-app": "index.js",
     "csa": "index.js"
