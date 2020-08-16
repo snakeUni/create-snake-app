@@ -40,6 +40,7 @@ _[`yarn create <starter-kit-package>`](https://yarnpkg.com/lang/en/docs/cli/crea
 Available templates:
 
 - `ts`
+- `react-ts`
 
 To scaffold with specific template:
 
