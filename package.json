@@ -1,0 +1,22 @@
+{
+  "name": "create-snake-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-snake-app": "index.js",
+    "csa": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "repository": "https://github.com/snakeUni/create-snake-app.git",
+  "author": "fox <1025687605@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1",
+    "minimist": "^1.2.5",
+    "ora": "^5.0.0"
+  }
+}
