@@ -41,6 +41,7 @@ Available templates:
 
 - `ts`
 - `react-ts`
+- `react-ts-doc`
 
 To scaffold with specific template:
 
